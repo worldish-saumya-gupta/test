@@ -2,3 +2,5 @@ This is git course.
 Add more data here.
 This is some dummy text.
 Add new story in bug-fix branch
+Add dummy data more here.
+Add new data.
