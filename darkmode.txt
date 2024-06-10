@@ -1,5 +1,0 @@
-Add new file dark mode.
-
-Add new button
-
-Add dark mode feature.
