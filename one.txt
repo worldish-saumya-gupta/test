@@ -1,3 +1,4 @@
 This is git course.
 Add more data here.
 This is some dummy text.
+Add new story in bug-fix branch
